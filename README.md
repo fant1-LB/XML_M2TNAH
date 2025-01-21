@@ -1,4 +1,4 @@
-#French polices de chargements meets XML TEI#
+# French polices de chargements meets XML TEI #
 This small guide will introduce to how I encoded these documents with XML TEI. This repository contains the 3 XML files from which an ODD file was extracted, which was then corrected and turned into a custom rng schema. Both the ODD and RNG are included in this repository too. 
 
 The idea of this encoding is to cumulate structured indications about the informations contained in the text, and about what is lacking or could not be read.
